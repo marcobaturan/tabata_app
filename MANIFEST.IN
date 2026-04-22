@@ -1,0 +1,3 @@
+include my_tabata.desktop
+include icon.svg
+recursive-include my_tabata/assets *
