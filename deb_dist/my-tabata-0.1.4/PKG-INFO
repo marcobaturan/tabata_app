@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: my-tabata
+Version: 0.1.4
+Summary: A minimal and practical Tabata Timer
+Home-page: https://github.com/marcobaturan/tabata_app
+Author: Marco Baturan
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
 
 # Tabata Desktop App
 ![Science-Backed](https://img.shields.io/badge/Science-Backed-green?style=for-the-badge&logo=google-scholar)

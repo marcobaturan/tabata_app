@@ -1,0 +1,7 @@
+my-tabata (0.1.4-2) unstable; urgency=medium
+
+  * Initial release.
+  * Fixed Homepage URL in debian/control and corrected ITP bug
+    reference.
+
+ -- Marco Baturan <marco.baturan@gmail.com>  Wed, 22 Apr 2026 18:35:14 +0200

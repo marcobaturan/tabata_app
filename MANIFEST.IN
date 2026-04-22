@@ -1,3 +1,4 @@
-include my_tabata.desktop
 include icon.svg
-recursive-include my_tabata/assets *
+include my_tabata.desktop
+recursive-include my_tabata/assets *.wav *.flac *.mp3 *
+include my_tabata/configuration.txt

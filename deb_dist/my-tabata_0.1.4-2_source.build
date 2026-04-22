@@ -1,0 +1,4 @@
+ dpkg-buildpackage -us -uc -ui -S -sa --cleansign
+dpkg-buildpackage: fallo: el argumento u opción «--cleansign» es desconocido
+
+Use --help para obtener información del uso de este programa.
