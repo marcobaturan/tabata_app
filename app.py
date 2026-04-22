@@ -200,7 +200,7 @@ class Application:
         if self.timer_id:
             self.root.after_cancel(self.timer_id)
         self.lbl_status.config(text="PAUSED", bootstyle=WARNING)
-        self.play_beep('fart_1.wav')
+        self.play_beep('short_soft.wav')
 
     def restart(self):
         """Resume the timer from the current state."""
@@ -214,7 +214,7 @@ class Application:
             self.root.after_cancel(self.timer_id)
         self.is_running = False
         print("Stopping app...")
-        self.play_beep('fart_1.wav')
+        self.play_beep('short_soft.wav')
         self.root.after(2000, self.root.destroy)
 
     def play_beep(self, sound_name):
