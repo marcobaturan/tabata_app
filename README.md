@@ -13,8 +13,7 @@
 * **License:** Creative Commons Zero (CC0)
 
 ## 🖼️ Visuals
-![Application Interface](https://raw.githubusercontent.com/marcobaturan/tabata_app/refs/heads/master/assets/pictures/Tabata_application_2026-04-22_01-41-23.jpg)
-
+![Application Interface](https://raw.githubusercontent.com/marcobaturan/tabata_app/refs/heads/master/my_tabata/assets/pictures/Tabata_application_2026-04-22_01-41-23.jpg)
 ## 🔬 Scientific Foundation
 The Tabata protocol is a specialized form of HIIT characterized by **20 seconds of ultra-high-intensity exercise** followed by **10 seconds of rest**, repeated for a specific number of cycles (typically 8). 
 
@@ -65,6 +64,12 @@ python app.py
 ```bash
 $ pip install my-tabata
 ```
+
+## Places
+
+- https://pypi.org/project/my-tabata/
+- https://mentors.debian.net/package/my-tabata/
+
 ## 📖 Usage Instructions
 
 1. **Define Intervals:** Set the "Active Duration" (Work) and "Break Duration" (Rest) in seconds.
