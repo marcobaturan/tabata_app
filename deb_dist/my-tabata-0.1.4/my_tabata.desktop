@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Tabata Timer
-Comment=Entrenamiento de alta intensidad
-Exec=/usr/bin/my-tabata
-Icon=/usr/share/icons/hicolor/scalable/apps/icon
-Terminal=false
-Type=Application
-Categories=Utility;Sports;
-Keywords=Tabata;Fitness;Timer;
