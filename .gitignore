@@ -1,8 +1,6 @@
-.venv/
-env/
-venv/
 deb_dist/
 dist/
+.venv/
+env/
 *.egg-info/
 __pycache__/
-
