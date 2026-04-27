@@ -2,5 +2,7 @@ deb_dist/
 dist/
 .venv/
 env/
+venv/
 *.egg-info/
 __pycache__/
+*.tar.gz
